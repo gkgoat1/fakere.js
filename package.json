@@ -1,0 +1,23 @@
+{
+  "name": "fakere",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkgoat1/fakere.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gkgoat1/fakere.js/issues"
+  },
+  "homepage": "https://github.com/gkgoat1/fakere.js#readme",
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
